@@ -3,7 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/arpad.sarosi.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arpad.sarosi.1" height="30" width="40" /></a>
+  <a href="https://fb.com/arpad.sarosi.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arpad.sarosi.1" height="30" width="40" /></a>
+  ![image](https://github.com/sarosiarpad/sarosiarpad/assets/115721850/10c1ee0f-fdd1-4b91-8497-f440b60fd7b3)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
