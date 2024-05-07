@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arpad Sarosi</h1>
-<h3 align="center">I am a student at Eotvos Lorand University, studying Computer Science. I'm mostly interested in web development.</h3>
+<h1 align="left">Hi 👋, I'm Arpad Sarosi</h1>
+<h3 align="left">I am a student at Eotvos Lorand University, studying Computer Science. I'm mostly interested in web development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
