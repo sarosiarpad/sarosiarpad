@@ -1,4 +1,4 @@
-### Hi there, I'm Arpad Sarosi 👋
+## Hi there, I'm Arpad Sarosi 👋
 
-# I am a student at Eotvos Lorand University, studying Computer Science.
-  
+### I am a student at Eotvos Lorand University, studying Computer Science.
+
