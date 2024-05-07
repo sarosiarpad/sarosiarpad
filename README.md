@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/arpad.sarosi.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arpad.sarosi.1" height="30" width="40" /></a>
-  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48"></svg>
+  <img align="center" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt="gmail" height="30" width="40" /> : 2003sarosia@gmail.com
 
 </p>
 
