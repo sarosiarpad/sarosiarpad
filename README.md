@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Arpad Sarosi</h1>
 <h3 align="left">I am a student at Eotvos Lorand University, studying Computer Science. I'm mostly interested in web development.</h3>
-
+- email **2003sarosia@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/arpad.sarosi.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arpad.sarosi.1" height="30" width="40" /></a>
