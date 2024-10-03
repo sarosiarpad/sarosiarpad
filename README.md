@@ -1,11 +1,7 @@
 <h1 align="left">Hi 👋, I'm Arpad Sarosi</h1>
-<h3 align="left">I am a student at Eotvos Lorand University, studying Computer Science. I'm mostly interested in web development.</h3>
+<h3 align="left">I am a student at Eotvos Lorand University, studying Computer Science.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/arpad.sarosi.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arpad.sarosi.1" height="30" width="40" /></a>
-  <img align="center" src="https://github.com/sarosiarpad/sarosiarpad/assets/115721850/15e1e5fa-ebab-463d-97b3-ea3230699907" alt="email" height="30" /> : 2003sarosia@gmail.com
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
